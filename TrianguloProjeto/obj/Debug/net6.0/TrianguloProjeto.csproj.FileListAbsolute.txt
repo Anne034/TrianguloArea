@@ -1,0 +1,5 @@
+C:\Users\Edyane Aranha\Documents\Source\Triangulo\Triangulo\TrianguloProjeto\obj\Debug\net6.0\TrianguloProjeto.csproj.AssemblyReference.cache
+C:\Users\Edyane Aranha\Documents\Source\Triangulo\Triangulo\TrianguloProjeto\obj\Debug\net6.0\TrianguloProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edyane Aranha\Documents\Source\Triangulo\Triangulo\TrianguloProjeto\obj\Debug\net6.0\TrianguloProjeto.AssemblyInfoInputs.cache
+C:\Users\Edyane Aranha\Documents\Source\Triangulo\Triangulo\TrianguloProjeto\obj\Debug\net6.0\TrianguloProjeto.AssemblyInfo.cs
+C:\Users\Edyane Aranha\Documents\Source\Triangulo\Triangulo\TrianguloProjeto\obj\Debug\net6.0\TrianguloProjeto.csproj.CoreCompileInputs.cache
